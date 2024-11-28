@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "123456"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1732807741933,
+      "localName": "Belém, Pará",
+      "location": {
+        "latitude": -1.3193274,
+        "longitude": -48.4472203
+      },
+      "ph": "12",
+      "oxygenation": "23",
+      "soilHumidity": "32",
+      "airHumidity": "13",
+      "date": "2024-11-28T15:29:01.933Z"
+    },
+    {
+      "id": 1732808116191,
+      "localName": "Soure, Pará",
+      "location": {
+        "latitude": -1.3193332,
+        "longitude": -48.4472291
+      },
+      "ph": "33",
+      "oxygenation": "435",
+      "soilHumidity": "34",
+      "airHumidity": "24",
+      "date": "2024-11-28T15:35:16.191Z"
+    },
+    {
+      "id": 1732811744198,
+      "localName": "Abaetetuba, Pará",
+      "location": {
+        "latitude": -1.71806,
+        "longitude": -48.8825
+      },
+      "ph": "233",
+      "oxygenation": "33",
+      "soilHumidity": "344",
+      "airHumidity": "56",
+      "date": "2024-11-28T16:35:44.198Z"
+    },
+    {
+      "id": 1732813360639,
+      "localName": "Belém - Tenoné, Pará",
+      "location": {
+        "latitude": -1.3193352,
+        "longitude": -48.4472395
+      },
+      "ph": "23",
+      "oxygenation": "45",
+      "soilHumidity": "56",
+      "airHumidity": "12",
+      "date": "2024-11-28T17:02:40.639Z"
+    }
+  ]
+}
